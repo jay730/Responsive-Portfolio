@@ -30,7 +30,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: rgb(128, 105, 0);
+  color: #4aaaa5;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -50,7 +50,7 @@ main {
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaa7d;
+  color: #4aaaa5;
 }
 
 .navbar {
@@ -61,7 +61,7 @@ main {
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #aa4a72;
+    background-color: #4aaaa5;
   }
 }
 /* END NAV */
